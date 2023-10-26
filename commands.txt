@@ -1,0 +1,3 @@
+copy down:      CTRL + D
+
+Reformat = CTRL + ALT + ol
