@@ -1,3 +1,5 @@
 copy down:      CTRL + D
 
 Reformat = CTRL + ALT + ol
+
+Python console: ALT + SHIFt + E
